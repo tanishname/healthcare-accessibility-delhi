@@ -2,6 +2,9 @@
 
 a geospatial case study analyzing hospital coverage across delhi using gis spatial techniques, population rasters, and administrative boundaries.
 
+## NOTE
+this is a beginner-level project built using publicly available datasets. the findings reflect the analysis performed on this data and may differ from real-world ground conditions. this project is meant to demonstrate gis workflow, analytical thinking, and problem-solving skills — not to be treated as an official assessment.
+
 ---
 
 ## 🔍 problem
