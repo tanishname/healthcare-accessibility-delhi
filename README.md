@@ -49,13 +49,6 @@ this project demonstrates how gis can drive real infrastructure decisions instea
 
 ---
 
-## 📂 files
-- 📄 report.pdf — final analysis
-- 🗺️ maps/ — layout exports
-- 📊 methodology and stats included
-
----
-
 ## author
 **tanish**  
 gis / spatial analyst (learning + building)
